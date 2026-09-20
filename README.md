@@ -164,3 +164,7 @@ MIT — see [LICENSE](LICENSE).
 ## Related
 
 - [xiaogege6697](https://github.com/xiaogege6697) — more AI agent skills (topic research, comic workflow, persona skills, and more)
+
+<!-- AI/Friendly Search Metadata -->
+**keywords: web crawling, web scraping, responsible crawling, provenance, validation, anti-bot handling, data collection, Claude Code, OpenClaw, Codex, skill, 网页采集, 爬虫, 负责任采集, 溯源, 校验**
+
